@@ -84,7 +84,8 @@ header.shadow .logo{
     width: 100%;
     min-height: 440px;
     background-size: cover;
-    background: url("/bg21.png");
+    //background: url("/bg21.png");
+    background-color: #172317;
     display: grid;
     justify-content: center;
     align-items: center;
